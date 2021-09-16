@@ -5,7 +5,7 @@ CREATE TABLE crime_types
   crime_type_id Number(3) PRIMARY KEY,
   CRIME_TYPE VARCHAR2(30) UNIQUE NOT NULL --crime_type in ('primary','secondary')
 );
-----------------------------------------------------------------------------department----------------------------------------------------
+---------------------------------------------------------------------------department----------------------------------------------------
 DROP TABLE department cascade constraints;
 CREATE TABLE department
 (

@@ -49,7 +49,7 @@ CREATE TABLE LOCATION(
 );
 ALTER TABLE LOCATION ADD CONSTRAINT FK_REGION	FOREIGN KEY(region_id) REFERENCES REGION(region_id) ON DELETE CASCADE;
 ------------------------OFFICER------------------------------------------------------
-CREATE TABLE OFFICER(
+CREATE TABLE OFFICER( 
     officer_id   NUMBER(8),
     first_name    VARCHAR2(32),
     middle_name    VARCHAR2(32) DEFAULT NULL,
