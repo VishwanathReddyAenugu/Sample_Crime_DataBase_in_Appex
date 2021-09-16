@@ -2,3 +2,6 @@
 
 ## Project Aim:
 #### The aim of this project is to create a relational database for recording and reporting crime data through SQL in oracle-APPEX
+
+## Objectives
+#### Create a relational database model schema with normalization, referential integrety, validations.
