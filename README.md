@@ -15,3 +15,17 @@
 
 ## ERD for Apex application
 ![erd](https://user-images.githubusercontent.com/90732088/133695192-c1df5cd2-9777-4dff-a564-7b668e4b9562.jpg)
+
+## Needed reports
+1) Total number of open and closed crimes per city 
+2) Number of crimes per financial year between the years 2001 to 2021
+3) Number of crimes per region
+4) Region where number of crime is maximum
+5) List of cities where crime numbers is more than the average number of crimes 
+6) list of crimes that remained unsolved for more than 2 years and the detective who is assigned with the case
+
+## Dashboard
+1) Number of crimes per financial year
+2) Total number of crimes per city
+3) Total number of crimes per region
+4) List of open and closed crimes
